@@ -1,0 +1,68 @@
+﻿student@Ubuntu-MySQL-VirtualBox:~$ pwd
+/home/student
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop  Документы  Изображения  Общедоступные  Шаблоны
+Видео             Загрузки   Музыка       Рабочий стол
+student@Ubuntu-MySQL-VirtualBox:~$ mkdir students  mentors
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop  students  Документы  Изображения  Общедоступные  Шаблоны
+mentors           Видео     Загрузки   Музыка       Рабочий стол
+student@Ubuntu-MySQL-VirtualBox:~$ cd students
+student@Ubuntu-MySQL-VirtualBox:~/students$ > students_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/students$ ls
+students_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/students$ vim students_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/students$ more students_list.txt
+
+Екатерина Овсянникова
+Олег Туриненко
+Павел Чибин
+Рауф Агайев
+Марат Закиев
+Тимур Шамсутдинов
+Артур Вагапов
+Алексей Рысляев
+Леонид Царев
+Анастасия Вронская
+Михаил Ившин
+Алексей Латышев
+Александр Гришин
+Александр Ситохов
+Дмитрий Шамаев
+Буян Топуран
+Осипова Антонина
+Алексей Потапов
+Александр Родин
+Константин
+Ринат Балтачев
+Никита Семенков
+Георгий Агеев
+Владислав Разсадкин
+Станислав Замский
+Никита Мельнов
+Елизавета Козеренко
+Светлана Бурлака
+Максим Шин
+Лесников Игорь
+Юрий Яремчук
+Илья Скочилов
+
+student@Ubuntu-MySQL-VirtualBox:~/students$ cd ..
+student@Ubuntu-MySQL-VirtualBox:~$ pwd
+/home/student
+student@Ubuntu-MySQL-VirtualBox:~$ cd mentors
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ > mentors_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ ls
+mentors_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ vim mentors_list.txt
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ more mentors_list.txt
+
+Наставник
+Сергей Минеев
+Наставникc
+Юрий Тигунов
+Наставник
+Alena Tektova
+
+
+student@Ubuntu-MySQL-VirtualBox:~/mentors$ 
