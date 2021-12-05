@@ -1,0 +1,8 @@
+﻿#6    Удалите папку students_and_mentors вместе с содержимым.
+
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop  students_and_mentors  Видео  Документы  Загрузки  Изображения  Музыка  Общедоступные  Рабочий стол  Шаблоны
+student@Ubuntu-MySQL-VirtualBox:~$ rm students_and_mentors -r
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop  Видео  Документы  Загрузки  Изображения  Музыка  Общедоступные  Рабочий стол  Шаблоны
+student@Ubuntu-MySQL-VirtualBox:~$ 
