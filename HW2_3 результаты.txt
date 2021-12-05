@@ -1,0 +1,14 @@
+﻿student@Ubuntu-MySQL-VirtualBox:~/mentors$ cd ~
+student@Ubuntu-MySQL-VirtualBox:~$ mv mentors/mentors_list.txt students/
+
+student@Ubuntu-MySQL-VirtualBox:~$ tree mentors students
+mentors
+students
+├── mentors_list.txt
+└── students_list.txt
+
+student@Ubuntu-MySQL-VirtualBox:~$ ls mentors students/
+mentors:
+
+students/:
+mentors_list.txt  students_list.txt
