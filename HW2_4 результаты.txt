@@ -1,0 +1,6 @@
+﻿student@Ubuntu-MySQL-VirtualBox:~$ pwd
+/home/student
+student@Ubuntu-MySQL-VirtualBox:~$ rm mentors -r
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop  students  Видео  Документы  Загрузки  Изображения  Музыка  Общедоступные  Рабочий стол  Шаблоны
+student@Ubuntu-MySQL-VirtualBox:~$ 
