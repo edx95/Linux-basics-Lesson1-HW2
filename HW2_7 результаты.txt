@@ -1,0 +1,16 @@
+﻿#7    Подключитесь к машине с Linux по протоколу SSH.
+#      Подключение к виртуальной машине (условному серверу) выполнено с хостовой машины работающей на ОС WINDOWS7 (клиента) при помощи утилиты PUTTY.
+
+login as: student
+student@***.***.*.***'s password:
+Welcome to Ubuntu 16.04.6 LTS (GNU/Linux 4.15.0-142-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+Могут быть обновлены 84 пакета.
+2 обновления касаются безопасности системы.
+
+Last login: Tue Nov 30 00:46:14 2021 from 192.168.*.***
+student@Ubuntu-MySQL-VirtualBox:~$
