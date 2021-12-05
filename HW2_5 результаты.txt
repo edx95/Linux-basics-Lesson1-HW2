@@ -1,0 +1,17 @@
+﻿#Переименуйте папку students в students_and_mentors.
+
+student@Ubuntu-MySQL-VirtualBox:~$ pwd
+/home/student
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop  students  Видео  Документы  Загрузки  Изображения  Музыка  Общедоступные  Рабочий стол  Шаблоны
+student@Ubuntu-MySQL-VirtualBox:~$ tree students
+students
+├── mentors_list.txt
+└── students_list.txt
+
+0 directories, 2 files
+
+student@Ubuntu-MySQL-VirtualBox:~$ mv students students_and_mentors
+student@Ubuntu-MySQL-VirtualBox:~$ ls
+examples.desktop  students_and_mentors  Видео  Документы  Загрузки  Изображения  Музыка  Общедоступные  Рабочий стол  Шаблоны
+student@Ubuntu-MySQL-VirtualBox:~$ 
